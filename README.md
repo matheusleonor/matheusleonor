@@ -38,3 +38,6 @@
   <a href="https://www.linkedin.com/in/matheus-veranini-855412151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/matheusleonor/matheusleonor/blob/output/github-contribution-grid-snake.svg)
+
+  
+  
