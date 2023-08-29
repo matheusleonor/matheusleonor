@@ -25,7 +25,7 @@
   <img align="center" alt="Matheus-VisualStudioCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Matheus-VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
 
-  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/754529877243330708/1072878328442261524/WhatsApp_Image_2022-12-14_at_20.43.24.jpg">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50;" src="https://cdn.discordapp.com/attachments/754529877243330708/1146091531833446470/WhatsApp_Image_2022-12-14_at_20.43.24.jpg">
 </div>
   
   ##
