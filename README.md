@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Matheus Veranini, criador de conteúdo de programação e tecnologia!
 
 - 🔭 Hoje trabalho como Full Stack, com foco mais na parte do Back-end
-- 🌱 Estudando ASP .NET
+- 🌱 Estudando ASP .NET, ASP .NET Core e Flutter
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusleonor&show_icons=true&bg_color=00000000)
