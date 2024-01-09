@@ -41,4 +41,3 @@
 ![Snake animation](https://github.com/matheusleonor/matheusleonor/blob/output/github-contribution-grid-snake.svg)
 
   
-https://github.com/{{matheusleonor}}/{{matheusleonor}}
